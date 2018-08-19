@@ -1,0 +1,300 @@
+
+#cover{ 
+    margin-top: -.9%;
+    margin-left: -1%;
+}
+
+nav { 
+    float: right;
+font-family: 'Source Sans Pro', sans-serif;
+    margin-top: -3%;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+nav li {
+    display: inline-block;
+    margin-left: 5px;
+    margin-right: 30px;
+    padding-top: 23px;
+}
+
+li a {
+    text-decoration: none;
+    color: #1D385A;
+
+}
+
+#box {
+  background-color: #F8F5F0;
+  padding: 40px ;
+  margin: -10px -10px;
+
+}
+
+#logo {
+    margin-top: -9%;
+}
+
+.cc {
+    margin-top: -5%;
+    width: 35%;
+    margin-left: 1%;
+}
+
+div.box1 {
+  background-color: #A2DBDE;
+  padding: 90px ;
+  margin: -10px;
+  position: relative;
+}
+
+div.box1 #slogan {
+   margin: 0;
+   position: absolute;
+   top: 50%;
+   transform: translate(-50%, -50%); 
+   left: 50%; 
+}
+
+div.box2 {
+  background-color: #F8F5F0;
+  padding: 400px ;
+  margin: -10px;
+  position: relative;
+}
+
+div.box2 #picture {
+   margin: 0;
+   position: absolute;              
+   top: 50%;
+   transform: translate(-50%, -50%);
+left: 50%;
+}
+
+div.box3 {
+  background-color: #E4F4EE;
+  padding: 400px ;
+  margin: -10px;
+  position: relative;
+}
+
+div.box3 #video {
+   margin: 0;
+   position: absolute;              
+   top: 50%;
+   transform: translate(-50%, -50%);
+   left: 50%;
+}
+
+ul.bottomnav1 {
+    list-style-type: none;
+    margin-left: -2%;
+    margin-right: -.8%;
+    margin-top: -1%;
+    margin-bottom: -2%;
+    padding-top: 10px;
+    overflow: hidden;
+    background-color: #888787;
+}
+
+ul.bottomnav1 li {
+    float: left;
+    margin-right: 173px;
+}
+
+ul.bottomnav1 li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+ul.bottomnav1 li a:hover {
+    background-color: #111;
+}
+
+ul.bottomnav2 {
+    list-style-type: none;
+    margin-left: -2%;
+    margin-right: -.8%;
+    margin-top: -1%;
+    margin-bottom: -2%;
+    padding-top: 10px;
+    overflow: hidden;
+    background-color: #888787;
+}
+
+ul.bottomnav2 li {
+    float: left;
+    margin-right: 160px;
+}
+
+ul.bottomnav2 li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+ul.bottomnav2 li a:hover {
+    background-color: #111;
+}
+
+ul.bottomnav3 {
+    list-style-type: none;
+    margin-left: -2%;
+    margin-right: -.8%;
+    margin-top: -1%;
+    margin-bottom: -2%;
+    padding-top: 10px;
+    overflow: hidden;
+    background-color: #888787;
+}
+
+ul.bottomnav3 li {
+    float: left;
+    margin-right: 60px;
+}
+
+ul.bottomnav3 li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+ul.bottomnav3 li a:hover {
+    background-color: #111;
+}
+
+.bottomnav1, .bottomnav2, .bottomnav3 {
+    font-family: sans-serif;
+}
+
+.wrapper {
+    margin-left: 43.4%;
+}
+
+.button1 {
+    position: absolute;
+    top: 440%;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #1D385A;
+    padding: 10px 30px 10px 30px;
+    border-radius: 8px;
+    font-size: 2em;
+     -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.button1:hover {
+    background-color: #A2DBDE;
+    color: white;
+}
+
+.bodyforabout {
+    background-color: #A2DBDE;
+
+}
+
+.bodyforservices {
+    background-color: #E4F4EE;
+}
+
+.bodyforcontact {
+    background-color: #BECBDB;
+}
+
+.bodyfortestimonials {
+    background-color: #F8F5F0;
+}
+
+#boxabout {
+  background-color: #A2DBDE;
+  padding: 40px ;
+  margin: -10px -10px;
+
+}
+
+#boxservices {
+  background-color: #E4F4EE;
+  padding: 40px ;
+  margin: -10px -10px;
+}
+
+#boxcontact {
+  background-color: #BECBDB;
+  padding: 40px ;
+  margin: -10px -10px;
+}
+
+#boxtestimonials {
+background-color: #F8F5F0;
+  padding: 40px ;
+  margin: -10px -10px;}
+
+.headerforservices {
+font-family: 'Source Sans Pro', sans-serif;
+    font-size: 5em;
+    color: #1D385A;
+    margin: 5% 0% 0% 7%;
+}
+
+.textforservices {
+font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1.5em;
+    color: #1D385A;
+    margin: 5% 0% 0% 7%;
+}
+
+.headerforabout {
+font-family: 'Source Sans Pro', sans-serif;
+    font-size: 5em;
+    color: #1D385A;
+    margin: 5% 0% 0% 7%;
+}
+
+.headerforcontact {
+font-family: 'Source Sans Pro', sans-serif;
+    font-size: 5em;
+    color: #1D385A;
+    margin: 5% 0% 0% 7%;
+}
+
+.headerfortestimonials {
+font-family: 'Source Sans Pro', sans-serif;
+    font-size: 5em;
+    color: #1D385A;
+    margin: 5% 0% 0% 7%;
+}
+
+.parallax {
+            /* The image used */
+            background-image: url(images/cover.png);
+
+            /* Set a specific height */
+            min-height: 1200px; 
+
+            /* Create the parallax scrolling effect */
+            background-attachment: fixed;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: 100%;
+            margin-top: -8px;
+            margin-left: -1%;
+            margin-right: -1%;
+    }
+
+
