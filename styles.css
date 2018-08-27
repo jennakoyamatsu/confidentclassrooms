@@ -272,7 +272,6 @@ font-family: 'Lato', sans-serif;
 
 .wrapper3 {
     padding-top: 10px;
-    padding-bottom: 10%;
     margin-bottom: 8%;
 }
 
@@ -334,6 +333,7 @@ font-family: 'Lato', sans-serif;
     position: absolute;
     top: 95%;
     left: 50%;
+    
     margin-bottom: 50px;
     transform: translate(-50%, -50%);
     text-align: center;
@@ -573,6 +573,8 @@ iframe {
     margin-left: 25%;
     margin-right: auto;
     width: 50%;
+        padding-bottom: 10%;
+
     }
 
 .bold {
