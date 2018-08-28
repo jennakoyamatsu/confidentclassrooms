@@ -288,7 +288,7 @@ font-family: 'Lato', sans-serif;
 .button1 {
     background-color: #ADB4B4;
     position: absolute;
-    top: 2600px;
+    top: 400%;
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
