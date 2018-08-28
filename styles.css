@@ -288,7 +288,7 @@ font-family: 'Lato', sans-serif;
 .button1 {
     background-color: #ADB4B4;
     position: absolute;
-    top: 400%;
+    top: 2600px;
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
@@ -309,7 +309,7 @@ font-family: 'Lato', sans-serif;
 .button2 {
     background-color: #ADB4B4;
     position: absolute;
-    top: 61%;
+    top: 390px;
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
@@ -330,9 +330,8 @@ font-family: 'Lato', sans-serif;
 .button3 {
     background-color: #ADB4B4;
     position: absolute;
-    top: 95%;
+    top: 750px;
     left: 50%;
-    
     margin-bottom: 50px;
     transform: translate(-50%, -50%);
     text-align: center;
@@ -353,7 +352,7 @@ font-family: 'Lato', sans-serif;
 .button4 {
     background-color: #ADB4B4;
     position: absolute;
-    top: 37%;
+    top: 240px;
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
@@ -574,7 +573,7 @@ iframe {
 .column {
     float: left;
     width: 50%;
-    padding: 40px;
+    padding: 3%;
     height: 300px; /* Should be removed. Only for demonstration */
     margin-bottom: -70px;
 }
