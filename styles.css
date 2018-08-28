@@ -420,22 +420,30 @@ font-family: 'Lato', sans-serif;
 }
 
 #boxservices {
-  background-color: #FFFFFF;
+ background-color: #FFFFFF;
   padding: 40px;
-  margin: -10px -10px;
+  margin-left: -10px; 
+  margin-right: -10px;
+  margin-top: -10px;
+  margin-bottom: -40px;
 }
 
 #boxcontact {
-  background-color: #FFFFFF;
-  padding-top: 40px;
-  padding-bottom: 2%;    
-  margin: -10px -10px;
+background-color: #FFFFFF;
+  padding: 40px;
+  margin-left: -10px; 
+  margin-right: -10px;
+  margin-top: -10px;
+  margin-bottom: -40px;
 }
 
 #boxtestimonials {
 background-color: #FFFFFF;
   padding: 40px;
-  margin: -10px -10px;
+  margin-left: -10px; 
+  margin-right: -10px;
+  margin-top: -10px;
+  margin-bottom: -40px;
 }
 
 .headerforservices {
