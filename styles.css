@@ -578,10 +578,18 @@ iframe {
 }
 
 /* Create four equal columns that floats next to each other */
-.column {
+.column1 {
     float: left;
     width: 50%;
-    margin-top: 60px;
+    padding: 7%;
+    height: 300px; /* Should be removed. Only for demonstration */
+    margin-bottom: -70px;
+}
+
+.column2 {
+    float: left;
+    width: 50%;
+    margin-top: 70px;
     padding: 7%;
     height: 300px; /* Should be removed. Only for demonstration */
     margin-bottom: -70px;
