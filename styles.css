@@ -60,7 +60,7 @@ div.box1a {
   position: relative;
   margin-left: -1%;
   margin-right: -1%;
-  margin-bottom: -5%;
+  margin-bottom: -50px;
 }
 
 div.box1a2 {
@@ -73,7 +73,7 @@ div.box1a2 {
 div.box1a3 {
   background-color: #FFFFFF;
   padding-top: 10px ;
-  padding-bottom: 90%;
+  padding-bottom: 1100px;
   position: relative;
   margin-left: -1%;
   margin-right: -1%;
@@ -86,7 +86,7 @@ div.box1a4 {
   position: relative;
   margin-left: -1%;
   margin-right: -1%;
-  margin-bottom: 8%;
+  margin-bottom: 100px;
 }
 
 div.box1a5 {
@@ -95,7 +95,7 @@ div.box1a5 {
   position: relative;
   margin-left: -1%;
   margin-right: -1%;
-  margin-bottom: 1%;
+  margin-bottom: 100px;
 }
 
 
@@ -411,27 +411,27 @@ font-family: 'Lato', sans-serif;
 
 #boxabout {
   background-color: #FFFFFF;
-  padding: 40px ;
+  padding: 40px;
   margin: -10px -10px;
 
 }
 
 #boxservices {
   background-color: #FFFFFF;
-  padding: 40px ;
+  padding: 40px;
   margin: -10px -10px;
 }
 
 #boxcontact {
   background-color: #FFFFFF;
-  padding-top: 40px ;
+  padding-top: 40px;
   padding-bottom: 2%;    
   margin: -10px -10px;
 }
 
 #boxtestimonials {
 background-color: #FFFFFF;
-  padding: 40px ;
+  padding: 40px;
   margin: -10px -10px;
 }
 
