@@ -31,9 +31,12 @@ li a {
 }
 
 #box {
-  background-color: #FFFFFF;
-  padding: 40px ;
-  margin: -10px -10px;
+    background-color: #FFFFFF;
+  padding: 40px;
+  margin-left: -10px; 
+  margin-right: -10px;
+  margin-top: -10px;
+  margin-bottom: -40px;
 
 }
 
