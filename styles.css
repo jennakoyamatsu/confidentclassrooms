@@ -73,11 +73,10 @@ div.box1a2 {
 div.box1a3 {
   background-color: #FFFFFF;
   padding-top: 10px ;
-  padding-bottom: 80%;
+  padding-bottom: 90%;
   position: relative;
   margin-left: -1%;
   margin-right: -1%;
-  margin-bottom: 8%;
 }
 
 div.box1a4 {
@@ -277,7 +276,7 @@ font-family: 'Lato', sans-serif;
 
 .wrapper4 {
     padding-top: 10px;
-    padding-bottom: 180px;
+    margin-bottom: 8%;
 }
 
 .wrapper5 {
@@ -354,7 +353,7 @@ font-family: 'Lato', sans-serif;
 .button4 {
     background-color: #ADB4B4;
     position: absolute;
-    top: 97%;
+    top: 37%;
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
