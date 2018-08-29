@@ -135,7 +135,7 @@ div.box2 #picture {
 }
 
 div.box2 #boxoftext {
-   top:450px;
+   top:400px;
    transform: translate(-400px, -270px);
    left: 1170px;
    position: absolute;              
