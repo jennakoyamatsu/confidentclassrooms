@@ -137,7 +137,7 @@ div.box2 #picture {
 div.box2 #boxoftext {
    top:350px;
    transform: translate(-400px, -270px);
-   left: 1170px;
+   left: 1000px;
    position: absolute;              
    display: inline-block;
    background-color: #FFFFFF;
