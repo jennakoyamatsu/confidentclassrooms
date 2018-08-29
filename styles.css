@@ -286,7 +286,8 @@ font-family: 'Lato', sans-serif;
 }
 
 .button1 {
-    background-color: #ADB4B4;
+    background-color: #66CBD1;
+    border: 2px solid #1D385A;
     position: absolute;
     top: 1800px;
     left: 50%;
@@ -294,7 +295,7 @@ font-family: 'Lato', sans-serif;
     padding-bottom: 30x;
     text-align: center;
     font-family: 'Lato', sans-serif;
-    color: #1D385A;
+    color: #FFFFFF;
     border-radius: 8px;
     font-size: 2em;
      -webkit-transition-duration: 0.4s; /* Safari */
@@ -308,14 +309,15 @@ font-family: 'Lato', sans-serif;
 }
 
 .button2 {
-    background-color: #ADB4B4;
+    background-color: #66CBD1;
+    border: 2px solid #1D385A;
     position: absolute;
     top: 390px;
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
     font-family: 'Lato', sans-serif;
-    color: #1D385A;
+    color: #FFFFFF;
     border-radius: 8px;
     font-size: 2em;
      -webkit-transition-duration: 0.4s; /* Safari */
@@ -329,7 +331,8 @@ font-family: 'Lato', sans-serif;
 }
 
 .button3 {
-    background-color: #ADB4B4;
+  background-color: #66CBD1;
+    border: 2px solid #1D385A;
     position: absolute;
     top: 750px;
     left: 50%;
@@ -337,7 +340,7 @@ font-family: 'Lato', sans-serif;
     transform: translate(-50%, -50%);
     text-align: center;
     font-family: 'Lato', sans-serif;
-    color: #1D385A;
+    color: #FFFFFF;
     border-radius: 8px;
     font-size: 2em;
      -webkit-transition-duration: 0.4s; /* Safari */
@@ -351,14 +354,15 @@ font-family: 'Lato', sans-serif;
 }
 
 .button4 {
-    background-color: #ADB4B4;
+  background-color: #66CBD1;
+    border: 2px solid #1D385A;
     position: absolute;
     top: 240px;
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
     font-family: 'Lato', sans-serif;
-    color: #1D385A;
+    color: #FFFFFF;
     border-radius: 8px;
     font-size: 2em;
      -webkit-transition-duration: 0.4s; /* Safari */
@@ -372,14 +376,15 @@ font-family: 'Lato', sans-serif;
 }
 
 .button5 {
-    background-color: #ADB4B4;
+  background-color: #66CBD1;
+    border: 2px solid #1D385A;
     position: absolute;
     top: 90%;
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
     font-family: 'Lato', sans-serif;
-    color: #1D385A;
+    color: #FFFFFF;
     border-radius: 8px;
     font-size: 2em;
      -webkit-transition-duration: 0.4s; /* Safari */
