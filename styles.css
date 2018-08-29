@@ -134,8 +134,8 @@ div.box2 #picture {
    display: inline-block;
 }
 
-div.box2 #boxoftext {
-   top:350px;
+/*div.box2 #boxoftext {
+   top:500px;
    transform: translate(-400px, -270px);
    left: 1000px;
    position: absolute;              
@@ -151,7 +151,7 @@ div.box2 #boxoftext {
     color: #1D385A
 
 }
-
+*/
 
 div.box3 {
   background-color: #FFFFFF;
