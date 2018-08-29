@@ -128,10 +128,9 @@ div.box2 {
 div.box2 #picture {
    margin: 0;
    position: absolute;              
-   top:390px;
-   transform: translate(-400px, -270px);
-   left: 550px;
-   display: inline-block;
+   top: 50%;
+   transform: translate(-50%, -50%);
+   left: 50%;
 }
 
 /*div.box2 #boxoftext {
