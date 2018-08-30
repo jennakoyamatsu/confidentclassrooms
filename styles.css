@@ -7,13 +7,12 @@
 nav { 
     float: right;
     font-family: 'Lato', sans-serif;
-    margin-top: -3%;
-    font-size: 1em;
+    margin-top: -13%;
+    font-size: 1.5em;
 }
 
 nav ul {
-    margin: 10px;
-    padding: 0px;
+    margin-top: 10px;
     list-style: none;
 }
 
@@ -32,7 +31,7 @@ li a {
 
 #box {
   background-color: #FFFFFF;
-  padding: 40px;
+  padding: 130px;
   margin-left: -10px; 
   margin-right: -10px;
   margin-top: -10px;
@@ -45,14 +44,14 @@ li a {
 }
 
 .cc {
-    margin-top: -3%;
-    width: 35%;
+    margin-top: -22%;
+    width: 18%;
     margin-left: 1%;
 }
 
 div.box1 {
   background-color: #FFFFFF;
-  padding: 90px;
+  padding: 90px ;
   margin: -10px;
   position: relative;
 }
@@ -75,7 +74,7 @@ div.box1a2 {
 
 div.box1a3 {
   background-color: #FFFFFF;
-  padding-top: 10px;
+  padding-top: 10px ;
   padding-bottom: 100%;
   position: relative;
   margin-left: -1%;
@@ -85,7 +84,7 @@ div.box1a3 {
 
 div.box1a4 {
   background-color: #FFFFFF;
-  padding-top: 30px;
+  padding-top: 30px ;
   padding-bottom: 2%;
   position: relative;
   margin-left: -1%;
@@ -95,7 +94,7 @@ div.box1a4 {
 
 div.box1a5 {
   background-color: #FFFFFF;
-  padding-top: 10px;
+  padding-top: 10px ;
   position: relative;
   margin-left: -1%;
   margin-right: -1%;
@@ -156,7 +155,7 @@ div.box2 #picture {
 div.box3 {
   background-color: #FFFFFF;
   padding: 400px;
-  margin: -10px;
+  margin-left: -10px;
   position: relative;
 }
 
