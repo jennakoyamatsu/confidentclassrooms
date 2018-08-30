@@ -58,8 +58,9 @@ li a {
 
 div.box1 {
   background-color: #FFFFFF;
-  padding: 90px ;
-  margin: -10px;
+  padding: 90px;
+    margin-bottom: 100px;
+  margin-top: -10px;
   position: relative;
 }
 
