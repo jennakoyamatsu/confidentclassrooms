@@ -710,14 +710,14 @@ ul.topnav li {float: left;}
 
 ul.topnav li a {
     font-family: 'Lato', sans-serif;
-    font-size: 1.7em;
+    font-size: 1.4em;
     display: block;
     color: white;
     width: 30%;
     text-align: center;
-    padding: 56px 0px;
+    padding-top: 96px;
     text-decoration: none;
-    margin-left: 180px;
+    margin-left: 160px;
 }
 
 @media screen and (max-width: 600px){
