@@ -729,6 +729,10 @@ audio {
     margin-left: 31%;
 }
 
+.spacingfornav {
+    margin-left: 21%;
+}
+
 footer{
     background-image: url(images/bandwatercolor.png);
     height: 150px;
