@@ -695,15 +695,15 @@ h2 {
     margin-bottom: -1%;
 } */
 
-body {
+/*body {
     background: url(images/bandwatercolor.png);
-}
+}*/
 
 
 ul.topnav {
     list-style-type: none;
-    margin: 20px;
-    padding: 0;
+    margin: 0px;
+    padding: 0px;
     overflow: hidden;
 }
 
@@ -711,12 +711,14 @@ ul.topnav li {float: left;}
 
 ul.topnav li a {
     font-family: 'Lato', sans-serif;
-    font-size: 1.2em;
+    font-size: 1.7em;
     display: block;
     color: white;
+    width: 30%;
     text-align: center;
-    padding: 0px 26px;
+    padding: 16px 10px;
     text-decoration: none;
+    margin-left: 100px;
 }
 
 @media screen and (max-width: 600px){
@@ -726,4 +728,12 @@ ul.topnav li a {
 
 audio {
     margin-left: 31%;
+}
+
+footer{
+    background-image: url(images/bandwatercolor.png);
+    height: 150px;
+    margin-left:-10%;
+    margin-right: -10%
+    clear:both;
 }
