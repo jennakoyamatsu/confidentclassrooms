@@ -493,16 +493,18 @@ background-color: #FFFFFF;
 .spacingforabout {
     display: block;
     width:100%;
+    margin-top: -26.5%;
     text-align: center;
 }
 
 .textforabout {
     font-family: 'Lato', sans-serif;
     font-size: 1.5em;
+    line-height: 50px;
     color: #1D385A;
     text-align: left;
     margin-left: 50%;
-    padding-bottom: 155px;
+    padding-bottom: 55px;
     width: 600px;
 }
 
