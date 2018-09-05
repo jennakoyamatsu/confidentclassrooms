@@ -27,7 +27,14 @@ nav li {
 li a {
     text-decoration: none;
     color: #1D385A;
+}
 
+a:hover{
+    color:#66CBD1; /*changes color of word when hovered over*/
+}
+
+a:active{
+    color:#66CBD1;
 }
 
 #box {
