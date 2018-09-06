@@ -5,6 +5,10 @@
     margin-left: -1%;
 }
 
+.vimeo {
+    padding: 10px;
+}
+
 nav { 
     float: right;
     font-family: 'Lato', sans-serif;
