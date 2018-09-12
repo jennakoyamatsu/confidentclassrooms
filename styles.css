@@ -733,10 +733,10 @@ h2 {
 footer {
    position: relative;
     overflow: hidden;
-    margin-left: -1%;
-    margin-right: -1%;
+    margin-left: -10%;
+    margin-right: -10%;
     margin-bottom: -1%;
-    margin-height: 5%;
+    height: 150px;
     width: 2000px;
 } 
 
