@@ -735,6 +735,7 @@ footer {
     margin-right: -10%;
     margin-bottom: -1%;
     height: 150px;
+    overflow: hidden;
 } 
 
 /* footer {
