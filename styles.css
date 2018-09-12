@@ -730,13 +730,13 @@ h2 {
 }
 
 
-/* .footer {
+footer {
    position: relative;
     overflow: hidden;
     margin-left: -1%;
     margin-right: -1%;
     margin-bottom: -1%;
-} */
+} 
 
 /*body {
     background: url(images/bandwatercolor.png);
@@ -777,10 +777,10 @@ audio {
     margin-left: 6%;
 }
 
-.footer {
+/* .footer {
     background-image: url(images/bandwatercolor.png);
     height: 150px;
     margin-left:-10%;
     margin-right: -10%
     clear:both;
-}
+} */
