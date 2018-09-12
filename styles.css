@@ -731,13 +731,23 @@ h2 {
 
 
 footer {
+    margin-left: -10%;
+    margin-right: -10%;
+    margin-bottom: -1%;
+    height: 150px;
+    clear: both;
+} 
+
+/* footer {
    position: relative;
     overflow: hidden;
     margin-left: -10%;
     margin-right: -10%;
     margin-bottom: -1%;
     height: 150px;
-} 
+} */
+
+
 
 /*body {
     background: url(images/bandwatercolor.png);
