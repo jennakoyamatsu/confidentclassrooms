@@ -394,7 +394,7 @@ font-family: 'Lato', sans-serif;
   background-color: #66CBD1;
     border: 2px solid #1D385A;
     position: absolute;
-    top: 90%;
+    top: 200%;
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
