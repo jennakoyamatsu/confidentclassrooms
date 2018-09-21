@@ -1,4 +1,14 @@
 
+.testimonialfooter
+{
+    margin-top: 960px;
+    margin-left: -.1%;
+    margin-right: -.1%;
+    height: 150px;
+    overflow: hidden;
+}
+
+
 #cover{ 
     padding-top: 10px;
     margin-top: -3%;
