@@ -6,6 +6,8 @@
     margin-right: -1%;
     height: 150px;
     overflow: hidden;
+    background-image: url(images/bandwatercolor.png);
+    background-repeat: repeat-x;
 }
 
 
