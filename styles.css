@@ -760,6 +760,8 @@ footer {
     margin-bottom: -1%;
     height: 150px;
     overflow: hidden;
+    background-repeat: repeat-x;
+
 } 
 
 /* footer {
