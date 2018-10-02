@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="styles1.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+</head>
+<body>
+
+  <!-- <div class="cc"><a href="index.html"><img src="images/logo1.png" width="300%"></a></div> -->
+
+<div id="navbar">
+  <a href="tester1.html"><img src="images/logo1.png" width="30%" class="side"></a>
+  <a href="tester1.html"><p class="white">fadsfasdfasdfasdfasdfadsfadsfdafdsfadsfasdfasdfasdfasdfasdfadsfadsf</p></a>    
+  <a href="tester1.html">Home</a>
+  <a href="about1.html">About</a>
+  <a href="services1.html">Services</a>
+  <a href="contact1.html">Contact</a>
+  <a href="testimonials1.html">Testimonial</a>
+
+
+</div>
+
+<div class="content">
+  <!-- <div class="boxbanner1a4"> -->
+        
+          <img id="cover" src="images/Copy%20of%20amy%20arms%20in%20the%20air.jpg"  width="102%">
+        
+        <div class="box1">
+        <img id="slogan" src="images/Stacked%20Tag%20Line%20Transparent.png">
+        </div>
+      <!-- </div> -->
+        
+   <footer> 
+    </footer>
+        
+</div>
+
+<script>
+window.onscroll = function() {myFunction()};
+
+var navbar = document.getElementById("navbar");
+var sticky = navbar.offsetTop;
+
+function myFunction() {
+  if (window.pageYOffset >= sticky) {
+    navbar.classList.add("sticky")
+  } else {
+    navbar.classList.remove("sticky");
+  }
+}
+</script>
+
+</body>
+</html>
