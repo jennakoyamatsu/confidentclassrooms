@@ -487,7 +487,7 @@ font-family: 'Lato', sans-serif;
 .button5 {
   background-color: #66CBD1;
     border: 2px solid #1D385A;
-    position: absolute;
+    position: relative;
     top: 430%;
     left: 50%;
     transform: translate(-50%, -50%);
