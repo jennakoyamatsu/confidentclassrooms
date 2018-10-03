@@ -135,7 +135,7 @@ a:active{
 .cc {
     float: left;
     margin-top: -1%;
-    position: fixed;
+    position: absolute;
     width: 10%;
     margin-left: 1%;
 }
