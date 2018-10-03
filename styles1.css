@@ -590,7 +590,8 @@ font-family: 'Lato', sans-serif;
 }
 
 .spacingforabout {
-    display: block;
+    z-index: 1;
+    display: inline-block;
     width:100%;
     margin-top: -26.5%;
     text-align: center;
@@ -600,11 +601,11 @@ font-family: 'Lato', sans-serif;
     z-index: -2;
     font-family: 'Lato', sans-serif;
     font-size: 1em;
-    line-height: 50px;
+    line-height: 40px;
     color: #1D385A;
     text-align: left;
     margin-left: 50%;
-    padding-bottom: 5px;
+    padding-bottom: 100px;
     width: 600px;
 }
 
@@ -625,6 +626,7 @@ font-family: 'Lato', sans-serif;
 }
 
 .spacingforabout {
+    z-index: 1;
     display: block;
     width:100%;
     margin-top: -30%;
