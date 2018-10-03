@@ -442,7 +442,7 @@ font-family: 'Lato', sans-serif;
 .button3 {
   background-color: #66CBD1;
     border: 2px solid #1D385A;
-    position: absolute;
+    position: relative;
     top: 365%;
     left: 50%;
     margin-bottom: 50px;
