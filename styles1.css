@@ -600,7 +600,7 @@ font-family: 'Lato', sans-serif;
 .textforabout {
     z-index: -2;
     font-family: 'Lato', sans-serif;
-    font-size: 1.6em;
+    font-size: 1em;
     line-height: 50px;
     color: #1D385A;
     text-align: left;
@@ -660,11 +660,11 @@ font-family: 'Lato', sans-serif;
     display: block;
     font-family: 'Lato', sans-serif;
     color: #1D385A;
-    font-size: 1.5em;
+    font-size: 1.3em;
 }
 
 .amyexperience {
-    font-size: 1.3em;
+    font-size: 1em;
 }
 
 .aboutamybullet {
